@@ -22,5 +22,4 @@ Successfully completed the **NPTEL Cloud Computing** course with **Elite Certifi
 - Serverless Computing
 - Edge Computing
 ## 📜 Certificate
-
-[View NPTEL Cloud Computing Certificate](Cloud%20computing.pdf)
+[View NPTEL Cloud Computing Certificate](NPTEL-Cloud-Computing-Certificate.pdf)
