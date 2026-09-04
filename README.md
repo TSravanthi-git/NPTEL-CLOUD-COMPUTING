@@ -21,3 +21,6 @@ Successfully completed the **NPTEL Cloud Computing** course with **Elite Certifi
 - Docker & Containers
 - Serverless Computing
 - Edge Computing
+## 📜 Certificate
+
+[View NPTEL Cloud Computing Certificate](Cloud%20computing.pdf)
